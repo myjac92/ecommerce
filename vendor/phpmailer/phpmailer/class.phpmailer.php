@@ -71,6 +71,7 @@ class PHPMailer
      * @var string
      */
     public $From = 'root@localhost';
+    //public $From = 'myjac92@gmail.com';
 
     /**
      * The From name of the message.
